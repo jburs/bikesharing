@@ -1,5 +1,8 @@
 # bikesharing
+This is a summary of the analytics I did on a NYC bike charing dataset
 Tableau
+
+[link to dashboard](https://public.tableau.com/profile/jburs4980#!/vizhome/Book1_15953702013250/Story1?publish=yes)
 
 
 ## population of Des Moines vs new York city 
